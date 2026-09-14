@@ -15,7 +15,7 @@ export const CONFIG = {
   // --- Google Sheet endpoint ---------------------------------------------
   // Paste the Web App URL from google/apps-script.gs after you deploy it.
   // Example: https://script.google.com/macros/s/AKfy..../exec
-  sheetsEndpoint: 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE',
+  sheetsEndpoint: 'https://script.google.com/macros/s/AKfycbwNPBcdJW-UOzziL68Qo7nv2RYWQldlLb0cXarJXDh68CeIV7J0cYGyvG7cbalNaFPk/exec',
 
   // --- Copy you may want to change ---------------------------------------
   copy: {
